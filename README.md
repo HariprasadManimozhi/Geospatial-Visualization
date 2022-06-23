@@ -3,6 +3,8 @@
 ## Objective: 
 Analyse and visualize the geospatial data in maps.
 
+In specific, visualize the distribution of villages of India from Census data along with the population metrics.
+
 ## Tools:
 Python - 
   * Dataframe - geopandas
