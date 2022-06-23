@@ -1,22 +1,25 @@
-# Geospatial Visualization - Villages of India
+# Geospatial Visualization
 
 ## Objective: 
-Analyse and visualize the distribution of villages of India from Census data along with the population metrics.
+Analyse and visualize the geospatial data in maps.
 
 ## Tools:
 Python - 
   * Dataframe - geopandas
-  * Visualization - leafmap
+  * Visualization - leafmap, seaborn
 
 ## Steps:
-1. Create a new environment to install geo-libraries
-1. Import libraries
-1. Load shapefile for a state from Census India data
-1. Transform shapefile to get desired columns
-1. Convert to shapefile after transform
-1. Add transformed shapefile to the map
-1. Load CSV file containing xy coordinates
-1. Plot shapefile & csvfile as layers in Map
+
+Create a new environment to install geo-libraries
+Import libraries
+Load shapefile for a state from Census India data
+Load csvfile containing coordinates
+Visualization
+Using shapefile
+Using geodataframe
+Using csvfile
+Using layers
+With colors
     
 ## Snapshots:
 
